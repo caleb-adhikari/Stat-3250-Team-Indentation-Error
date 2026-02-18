@@ -3,3 +3,6 @@ Indentation Error's Repository for our Group Project in Stat 3250 with Prof. Bro
 
 ## Group Members
 Haider Qureshi, David Xing, Anh Bach, Daniel Zhang, Lauren Hong, Alex Heyman, Emily Breedis, Matthew Tonko, Nathan Jun, Caleb Adhikari, Joe Dokken, Hans Yang, Julia Silva, Mariana Fadigas de Souza
+
+### Project Details
+TBD, something with the Olympics
